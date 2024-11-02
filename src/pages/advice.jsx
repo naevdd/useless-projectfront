@@ -10,7 +10,7 @@ function Advice() {
     const [status, setStatus] = useState("Loading history...");
 
     useEffect(() => {
-        axios.get("http://localhost:5000/api/get-history")
+        axios.get("https://useless-projectback.onrender.com/api/get-history")
             .then(response => {
                 const historyData = response.data.history || [];
                 setStoredHistory(historyData);
@@ -33,7 +33,7 @@ function Advice() {
         const inp='ADVICE :'+prompt
         setResponse("Coming up with advice..."); 
         try {
-            const response = await axios.post("http://localhost:5000/api/generate", {inp});
+            const response = await axios.post("https://useless-projectback.onrender.com/api/generate", {inp});
         console.log("Full response from server:", response);
 
         const responseText = response.data?.text?.text || "No response text available";

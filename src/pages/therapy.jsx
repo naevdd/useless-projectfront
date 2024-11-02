@@ -13,7 +13,7 @@ function Therapy() {
         const inp="THERAPY :" + prompt
 
         try {
-            const response = await axios.post("http://localhost:5000/api/generate", {inp});
+            const response = await axios.post("https://useless-projectback.onrender.com/api/generate", {inp});
 
         console.log("Full response from server:", response);
 
