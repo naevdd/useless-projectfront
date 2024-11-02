@@ -30,33 +30,20 @@ For Software:
 - [LOST COUNT]
 
 ### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
+[project link - https://useless-projectfront.onrender.com/]
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![<img width="1280" alt="readme-banner" src="./advice.jpg">]
+*A response giving therapy*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![<img width="1280" alt="readme-banner" src="./therapy.jpg">](Add screenshot 2 here with proper name)
+*A response providing therapy*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+![<img width="1280" alt="readme-banner" src="./excuse.jpg">](Add screenshot 3 here with proper name)
+*An excuse reponse*
 
 # Additional Demos
-[Add any extra demo materials/links]
+[https://useless-projectfront.onrender.com/]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
